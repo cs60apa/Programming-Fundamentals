@@ -1,0 +1,1 @@
+create a program that genearate mutiplicationtable of any number
